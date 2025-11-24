@@ -1,0 +1,3 @@
+# Archivos locales y builds
+.env
+target/
